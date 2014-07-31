@@ -1,0 +1,7 @@
+[pagerduty]
+base_url = https://ENDPOINT.pagerduty.com/api/v1
+auth_token = PAGERDUTY_AUTH_TOKEN
+
+[newrelic_insights]
+base_url = https://insights-collector.newrelic.com/v1/accounts/ACCOUNT_ID/events
+api_key = INSIGHTS_KEY_ID
